@@ -1,6 +1,6 @@
 # 📝 This is a igsr5's original [Next.js](https://nextjs.org/) project.
 
-## 💡 +@ igsr5's original settings. 💡
+## 💡 create-next-app +@ igsr5's original settings. 💡
 ✅ Enable typeScript.
 
 ✅ Setting eslint, prettier.
